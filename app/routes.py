@@ -1,6 +1,6 @@
 from flask import Flask
 
-from app.API_requests import api_requests
+from app.api_requests import api_requests
 
 app = Flask(__name__)
 
